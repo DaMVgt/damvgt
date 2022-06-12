@@ -1,12 +1,10 @@
 Hi 👋 My name is Antonio Monterroso
 ===================================
 
-Desarrollador en proceso
-------------------------
-
-* 🌍  I'm based in Guatemala, Guatemala
+* 🌍  I'm from Guatemala
 * ✉️  You can contact me at [dmonterroso098@outlook.com](mailto:dmonterroso098@outlook.com)
-* 🧠  I'm learning C#, Angular, React
+* 🧠  I'm learning JavaScript, C#, Angular, React
+* ⚡ Fun fact: play videogames in my free time 😋
 
 ### Skills
 
@@ -39,5 +37,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
